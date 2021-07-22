@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm George… I mostly do PHP and I have a small web design and development firm in the UK called "[Net Glue](https://github.com/netglue)".
+
+I like to work with [Laminas](https://github.com/laminas) and [Mezzio](https://github.com/mezzio) components most and you can often find me making client websites using the Prismic headless CMS.
+
+I'm not very available for hire because I'm pretty busy, but you're always welcome to ask. I can be reached via my company website at https://netglue.uk
+
 <!--
 **gsteel/gsteel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
