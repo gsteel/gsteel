@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 ### Hi there 👋
 
 I'm George… I mostly do PHP and I have a small web design and development firm in the UK called "[Net Glue](https://github.com/netglue)".
